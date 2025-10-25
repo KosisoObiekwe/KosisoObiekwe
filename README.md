@@ -1,37 +1,43 @@
 <!-- README.md -->
 
-<h1 align="center">Hi there, I'm Obiekwe Great 👋</h1>
+<h1 align="center">👋 Hey, I'm <span style="color:#00BFFF;">Obiekwe Great</span></h1>
 
 <p align="center">
-  🌍 Nigeria | 💻 Frontend Dev | 🎨 UI Designer | 🌱 ALX SE Learner
+  🌍 Nigeria | 💻 Frontend Developer | 🎨 UI/UX Designer | 🎓 ALX SE Graduate
 </p>
+
+---
+
+<h3 align="center">✨ Turning ideas into interactive, animated web experiences ✨</h3>
 
 ---
 
 ### 🚀 About Me
 
-I am a learner of the **ALX Software Engineering - Frontend Program**, and I’m revamping my GitHub profile to make it stand out in my job search.
+I’m a **Frontend Developer & UI Designer** passionate about crafting **beautiful, high-performance, and animated web experiences**.  
+As an **ALX Software Engineering Graduate**, my focus has shifted from learning fundamentals to **mastering motion design and interaction** — building experiences that *feel alive*.
 
-My journey into software engineering began with a passion for **creating beautiful, functional digital experiences** and a curiosity about how things work under the hood. I'm inspired by the ability of technology to solve real-world problems and elevate the way people interact with products.
+Currently exploring **GSAP** and **Lenis**, with the goal of recreating **top creative agency websites** to sharpen my motion and storytelling skills.
 
 ---
 
 ### 🎯 Vision
 
-My aim is to become a world-class Frontend Engineer who designs and builds impactful products that combine aesthetic excellence with performance.
+To become a **world-class Frontend Engineer**, merging **design precision** with **interactive creativity** — crafting digital products that are not just seen, but *felt*.
 
-I'm especially interested in working on:
-- 🌐 Web apps that solve real problems
-- 🛍 E-commerce or fintech products
-- 🧠 AI-integrated UI experiences
-- 🧪 Open-source design systems
+I’m driven to work on:
+- 🌐 Real-world problem–solving web apps  
+- 🛍 E-commerce & fintech platforms  
+- 🧠 AI-driven user experiences  
+- 🧪 Open-source design systems  
+- 🎞 Interactive animations & creative web storytelling  
 
 ---
 
 ### 🛠 Tech Stack
 
 ```html
-🌐 Languages: HTML5, CSS3, JavaScript (ES6+)
-🎨 Styling: Tailwind CSS, Sass, Figma
-⚙ Tools: Git, GitHub, VS Code
-📦 Frameworks/Libraries: React.js (learning), Bootstrap
+🌐 Languages: HTML5, CSS3, JavaScript (ES6+), TypeScript  
+🎨 Styling: Tailwind CSS, Sass, Figma  
+⚙ Tools: Git, GitHub, VS Code, WebStorm  
+📦 Frameworks/Libraries: React.js, Next.js, GSAP, Lenis  
