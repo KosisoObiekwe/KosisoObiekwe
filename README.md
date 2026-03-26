@@ -43,23 +43,23 @@ I’m driven to work on:
 📦 Frameworks/Libraries: React.js, Next.js, GSAP, Lenis   -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A231D&height=200&section=header&text=Obiekwe%20Kosi&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20UI%2FUX%20Designer&descAlignY=58&descColor=a3c4bc" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFA52F&height=200&section=header&text=Obiekwe%20Kosi&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20UI%2FUX%20Designer&descAlignY=58&descColor=a3c4bc" />
 </div>
 
 <br/>
 
 <div align="center">
   <a href="https://warshipstudio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-warshipstudio.com-0A231D?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-warshipstudio.com-FFA52F?style=for-the-badge&logoColor=white" />
   </a>
   <a href="mailto:kozzyworkspace@gmail.com">
-    <img src="https://img.shields.io/badge/Email-kozzyworkspace-0A231D?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-kozzyworkspace-FFA52F?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/kosi-obiekwe-80b9b125a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Kosi%20Obiekwe-0A231D?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Kosi%20Obiekwe-FFA52F?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.behance.net/Kozzy_" target="_blank">
-    <img src="https://img.shields.io/badge/Behance-Kozzy__-0A231D?style=for-the-badge&logo=behance&logoColor=white" />
+    <img src="https://img.shields.io/badge/Behance-Kozzy__-FFA52F?style=for-the-badge&logo=behance&logoColor=white" />
   </a>
 </div>
 
@@ -80,7 +80,7 @@ ALX Software Engineering Graduate currently deep in **motion design and interact
 ### 🛠 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,figma,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,figma,git,photoshop,illustrator,github,vscode&theme=dark" />
 </div>
 
 ---
@@ -88,14 +88,14 @@ ALX Software Engineering Graduate currently deep in **motion design and interact
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KosisoObiekwe&show_icons=true&theme=dark&bg_color=0A231D&title_color=ffffff&icon_color=a3c4bc&text_color=ffffff&border_color=1a3d35&hide_border=false&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KosisoObiekwe&layout=compact&theme=dark&bg_color=0A231D&title_color=ffffff&text_color=ffffff&border_color=1a3d35&langs_count=6" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KosisoObiekwe&show_icons=true&theme=dark&bg_color=FFA52F&title_color=000000&icon_color=ff0000&text_color=000000&border_color=000000&hide_border=false&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KosisoObiekwe&layout=compact&theme=dark&bg_color=FFA52F&title_color=000000&text_color=000000&border_color=000000&langs_count=6" height="165" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=KosisoObiekwe&theme=dark&background=0A231D&ring=a3c4bc&fire=ffffff&currStreakLabel=ffffff&border=1a3d35&stroke=1a3d35&currStreakNum=ffffff&sideLabels=ffffff&sideNums=ffffff&dates=a3c4bc" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=KosisoObiekwe&theme=dark&background=FFA52F&ring=ff0000&fire=ff0000&currStreakLabel=000000&border=000000&stroke=000000&currStreakNum=000000&sideLabels=000000&sideNums=000000&dates=000000" />
 </div>
 
 ---
@@ -116,5 +116,5 @@ To become a **world-class Frontend Engineer** — merging design precision with 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A231D&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFA52F&height=120&section=footer" />
 </div>
