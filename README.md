@@ -88,9 +88,6 @@ ALX Software Engineering Graduate currently deep in **motion design and interact
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KosisoObiekwe&show_icons=true&theme=dark&bg_color=FFA52F&title_color=000000&icon_color=ff0000&text_color=000000&border_color=000000&hide_border=false&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KosisoObiekwe&layout=compact&theme=dark&bg_color=FFA52F&title_color=000000&text_color=000000&border_color=000000&langs_count=6" height="165" />
-</div>
 
 <br/>
 
