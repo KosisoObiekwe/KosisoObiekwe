@@ -73,7 +73,7 @@ Frontend developer and UI designer focused on building **high-performance, anima
 
 ALX Software Engineering Graduate currently deep in **motion design and interaction** — recreating top creative agency websites, mastering **GSAP** and **Lenis**, and shipping real products through **Warship Studios**.
 
-> _"Design is not just what it looks like. Design is how it works."_
+> _"Every interface has a rhythm. Every pixel knows why."_
 
 ---
 
