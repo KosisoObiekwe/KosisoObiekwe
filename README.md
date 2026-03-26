@@ -50,7 +50,7 @@ I’m driven to work on:
 
 <div align="center">
   <a href="https://warshipstudio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-warshipstudio.com-FFA52F?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/Selected Portfolio-warshipstudio.com-FFA52F?style=for-the-badge&logoColor=white" />
   </a>
   <a href="mailto:kozzyworkspace@gmail.com">
     <img src="https://img.shields.io/badge/Email-kozzyworkspace-FFA52F?style=for-the-badge&logo=gmail&logoColor=white" />
